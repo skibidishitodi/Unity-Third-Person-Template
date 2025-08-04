@@ -4,4 +4,4 @@ This was made with Mixamo, Unity, And VSC.
 I made this in Unity 2022.3.32f1, So if you have version errors, switch.
 If your feet are in the ground, Adjust the Ground Check Distance, I use 0.
 
-If you have a weird walkign bug, i recommend just making a empty gameobject inside the Player, THen assigning that as the Camera in the Player Script (The movement is way different).
+If you have a weird walking bug, I recommend just making a empty gameobject inside the Player, THen assigning that as the Camera in the Player Script (The movement is way different).
