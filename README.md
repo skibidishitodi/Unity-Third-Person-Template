@@ -4,4 +4,4 @@ This was made with Mixamo, Unity, And VSC.
 I made this in Unity 2022.3.32f1, So if you have version errors, switch.
 If your feet are in the ground, Adjust the Ground Check Distance, I use 0.
 
-IF YOUR MOVEMENTS BUGGING/ FEELS WEIRD, DRAG THE PARENT OF THE CAMERA INTO THE CAMERA SLOT OF THE PLAYER (Y Bot)
+NO FIX FOR WEIRD WALKING RN, SORRY!
